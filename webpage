@@ -37,16 +37,22 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
+  <a href="/about us.html">About Us</a>
+  <a href="contact.html">Contact US</a>
   <a href="/silk.html">Silk Saree</a>
-  <a href="/contact.html">Contact</a>
-  <a href="/about.html">About</a>
+  <a href="/cotton.html">Cotton Saree</a>
+ <a href="/login.html">Login</a>
 </div>
 
 <div style="padding-left:16px">
-  <h2>Kanchi silks  </h2>
-  <p>Kanchi Silks is an exclusive online shopping store to buy Indian Kanchipuram bridal silk sarees at weaver's price.
+  <h2>Kanchipuram silks  </h2>
+  <p>Kanchipuram Silks is an exclusive online shopping store to buy Indian Kanchipuram bridal silk sarees at weaver's price.
 Our collections - pure Kanchi pattu, kanchipuram Wedding sarees, bridal sarees kanchipuram, Soft silk sarees. 
-< img src="kpm sarre.jpg" >
+Why choose us? We make and supply silk sarees to major shops in Chennai, Bangalore, Hyderabad so here you can buy at wholesale price.
+We can also send the sarees as gift to avoid import taxes in your country. All our pure silk sarees comes with silk mark certified.
+We also customize and make wedding silk sarees for you, with our own designs for your wedding functions at your budget.
+Check out our deals of the day regularly, you might get your liked saree at the very best discount price possible. </p>
+<img src="kpm sarre.jpg" type="jpg">
 </div>
 
 </body>
